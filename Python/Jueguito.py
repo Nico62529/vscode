@@ -38,5 +38,4 @@ def jueguito():
     print(f"\nOh no... ¡Te quedaste sin intentos!")
     print(f"GG. El numero secreto era el {numero_aleatorio}. Suerte a la otra!")
 
-if __name__ == "__main__":
-    jueguito()
+
